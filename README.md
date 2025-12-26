@@ -26,7 +26,7 @@ I thrive on solving complex backend challenges, optimizing database performance,
 
 ---
 
-## 🧩 Problem Solving & Data Structures
+## Problem Solving & Data Structures
 I am an active problem solver with a focus on mastering **Data Structures and Algorithms (DSA)** to build efficient software. 
 
 * **Codeforces:** Max Rating 1108 (Newbie)
