@@ -5,7 +5,7 @@ I am a **Software Engineer** specializing in the **ASP.NET Core ecosystem**, ded
 
 I thrive on solving complex backend challenges, optimizing database performance, and implementing modern search technologies. My development workflow is centered around **Visual Studio**, ensuring clean, maintainable, and professional-grade code for every project.
 
----
+-
 
 ## Technical Expertise
 
