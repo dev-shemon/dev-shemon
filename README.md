@@ -1,11 +1,11 @@
 # [Sahadat Hossain]
 
+
 ## About Me
 I am a **Software Engineer** specializing in the **ASP.NET Core ecosystem**, dedicated to building scalable and robust backend solutions. My core focus is on maintaining **Architectural Integrity** through **Clean Architecture** (Domain, Application, Infrastructure, and Web layers) and strict adherence to **SOLID** and **DRY** principles.
 
 I thrive on solving complex backend challenges, optimizing database performance, and implementing modern search technologies. My development workflow is centered around **Visual Studio**, ensuring clean, maintainable, and professional-grade code for every project.
 
--
 
 ## Technical Expertise
 
@@ -24,7 +24,7 @@ I thrive on solving complex backend challenges, optimizing database performance,
 * **Version Control:** Git, GitHub
 * **Cloud:** Azure
 
----
+
 
 ## Problem Solving & Data Structures
 I am an active problem solver with a focus on mastering **Data Structures and Algorithms (DSA)** to build efficient software. 
@@ -34,7 +34,8 @@ I am an active problem solver with a focus on mastering **Data Structures and Al
 * **LeetCode:** Currently solving interview-centric problems to sharpen my logic.
 * **Languages:** Proficient in **C** and **C++** for competitive programming.
 
----
+
+
 
 ## Featured Project: AIChatApp
 **Core Mission:** Optimizing high-performance database operations and implementing advanced search capabilities.
@@ -42,14 +43,16 @@ I am an active problem solver with a focus on mastering **Data Structures and Al
 * **Architecture:** Built using a 4-layer Clean Architecture for maximum testability and separation of concerns.
 * **Performance:** Focused on optimizing DB queries to ensure low-latency responses.
 
----
+
+
 
 ## Professional Focus
 * **Current Learning:** Deep diving into **Vector Search** and **SignalR** for real-time AI interactions.
 * **Code Quality:** I prioritize keeping Controllers thin and moving business logic to the Application layer.
 * **Styling Preference:** Expert in crafting custom templates using **Tailwind CSS** and **Bootstrap**.
 
----
+
+
 
 Beyond my core focus in ASP.NET Core, I have practical experience with:
 
@@ -57,14 +60,16 @@ Beyond my core focus in ASP.NET Core, I have practical experience with:
 * **Python Ecosystem:** Python, Django Framework
 * **Databases:** MySQL (alongside SQL Server & Oracle)
 
----
+
+
 
 ## Contact Me
 * **LinkedIn:** [https://www.linkedin.com/in/sahadat-hossain-0058a9291/]
 * **Email:** [sahadathossaincse@gmail.com]
 * **Portfolio:** [coming soon]
 
----
+
+
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -78,6 +83,6 @@ Beyond my core focus in ASP.NET Core, I have practical experience with:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
 
 *Feel free to reach out to me if you have any questions or would like to collaborate on a professional .NET project!*
